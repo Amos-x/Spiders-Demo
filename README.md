@@ -1,9 +1,10 @@
-# Little-spider
-Some little spiders , for study
+# Spiders Demo
+    一些小demo，如验证码破解，JS加密解密，Web driver等。
+    以及一些经典网站的反爬破解示例
+    ——Amos
 
-四个小爬虫，仅仅作为学习时的记录，by Amos
 
-名言警句（用scrapy）
-街拍美图（以下三个为脚本文件，仅实现基本的数据抓取）
-淘宝美食
-微信文章
+
+
+
+

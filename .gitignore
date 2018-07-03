@@ -1,0 +1,11 @@
+# Created by .ignore support plugin (hsz.mobi)
+# ideal pycharm
+/.idea
+*.iml
+
+# python
+*.pyc
+__pycache__/
+
+# keep empty dir
+!.gitkeep
